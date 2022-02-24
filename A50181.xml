@@ -1,0 +1,1069 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to the Christian Indians, giving them a short account, of what the English desire them to know and to do, in order to their happiness written by an English minister, at the desire of an English magistrate, who sends unto them this token of love.</title>
+            <author>Mather, Cotton, 1663-1728.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50181</idno>
+            <idno type="STC">Wing M1178</idno>
+            <idno type="STC">ESTC W18263</idno>
+            <idno type="EEBO-CITATION">12561222</idno>
+            <idno type="OCLC">ocm 12561222</idno>
+            <idno type="VID">63202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63202)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 768:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to the Christian Indians, giving them a short account, of what the English desire them to know and to do, in order to their happiness written by an English minister, at the desire of an English magistrate, who sends unto them this token of love.</title>
+                  <author>Mather, Cotton, 1663-1728.</author>
+               </titleStmt>
+               <extent>[2], 14 [i.e. 28] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bartholomew Green, and John Allen,</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Facing pages are numbered as one.</note>
+                  <note>Massachuset and English on opposite pages.</note>
+                  <note>Added t.p. in Massachuset: Wussukwhonk en Christianeue asuh peantamwae Indianog ... / wussukwhosik nashpe Cotton Mather ... Mvshavwomvk : Printeuun nashpe Bartholomew Green kah John Allen, 1700.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Indians of North America --  Massachusetts --  Missions.</term>
+               <term>Indians of North America --  Languages.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="alg">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:63202:1"/>
+                  <p>Wuſſukwhonk En Chriſtianeue aſuh peantamwae INDIANOG, Wahteauwaheonaount Teanteagquaſſiniſh, Niſh ENGLISHMANSOG Kodtantamwog <hi>Indianog</hi> Wahteaunate kah Uſſenate, En michemohtae Wunniyeuonganit.</p>
+                  <p>Wuſſukwhoſik naſhpe <hi>Cotton Mather,</hi> Engliſhmanne <hi>Nohtompeantog,</hi> nampoo<g ref="char:EOLhyphen"/>hamunate kodtantamoonk <hi>Edward Bromfield</hi> Engliſhmanne <hi>Nanawunnuaenuh,</hi> noh ukkodanmnumau yeu womoauſue Magooonk en Indianſut.</p>
+                  <p>
+                     <hi>M<g ref="char:V">Ʋ</g>SHA<g ref="char:V">Ʋ</g>WOM<g ref="char:V">Ʋ</g>K,</hi> Printeuun naſhpe <hi>Bartholomew Green,</hi> kah <hi>John Allen.</hi> 1700.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:63202:2"/>
+                  <head>Wuſſukwhonk EN INDIANSUT, Neeg wehquetogeeg ooweſuong Jeſus Chriſt, Nullordeumun, wuttaieyeuoh kah Nenawun. <hi>Kitteamonteanitteaonk apehtunko<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k kah wunohtea<g ref="char:EOLhyphen"/>onk wutch Godut kooſhinonut kah wutch nul<g ref="char:EOLhyphen"/>Lordeumun Jeſus Chriſt.</hi>
+                  </head>
+                  <p>
+                     <hi>KOOwehquetumonumwoo, Neematog, naſhpe ummonaneteaongaſh God,</hi> unnantamoe nat<g ref="char:EOLhyphen"/>wontamunate <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſh wunnamuhkuteyeuaſh yeuut wuſſukwhonganit Ut wabeſuoga<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n it kah womoauſuonganit God yeuſh <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> w<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>mook: <hi>Yeuſh Noowaongaſh quttauwemocutch ut kuttahhoowout.</hi>
+                  </p>
+                  <p>Kuppey a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>numwoo paudtanunnate yeu nehtamo<g ref="char:EOLhyphen"/>onk; <hi>Webe wuttinneum bkook Lord Jeſus Chriſt naſhpe mamuſse kuttahhoowoaſh; newutche, natwontamook</hi> ut<g ref="char:EOLhyphen"/>toh an mogagiſh <hi>kutuſseanſhuken.</hi>
+                  </p>
+                  <p>Wunnamuhkut woh kuſſimwoo, <hi>Jehovah, kum<g ref="char:EOLhyphen"/>miſhanakauſuwehtunkqun.</hi>
+                  </p>
+                  <p>Ne Q<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſhowaonk God, <hi>Nag nuttinnoog, matta wamiſſiminneumeoneg, ken nummiſſinninneum, kah nag giſh noowaog, keen Nummanittoom.</hi>
+                  </p>
+                  <p>Ut kuhhogkaout, <hi>Chriſtiane Indianog,</hi> nenawun
+<pb n="2" facs="tcp:63202:3"/> 
+                     <hi>Christiane Engliſhmanſog,</hi> naſhpe monchanata<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wekontamoonk nunnaumumum ne Quoſhodtuonh pakodche nnih. Kah ſunnamatta kenaau kummon<g ref="char:EOLhyphen"/>chanatamumwoo yeu wutuffeeonk God?</p>
+                  <p>Tohſohke kenaau mat peantamoog, <hi>keniſhkeneunk<g ref="char:EOLhyphen"/>quſſimwoo kah kukkittumunkeyeumwoo kah kuppogkenum<g ref="char:EOLhyphen"/>woo kah kapposkiſſimwoo;</hi> Qut God ut wunnana won<g ref="char:EOLhyphen"/>tamooonganit wogl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ouunum <hi>Engliſhmanſog</hi> Womo<g ref="char:EOLhyphen"/>auſuonk kukkuhkootomunkqunaout wahteauonk, noh <hi>webe wunnamuhkuttee Manit kah Jeſus Christ noh anoo<g ref="char:EOLhyphen"/>nut, nnoh ſampoi wahteaunnate ne micheme pomanta<g ref="char:EOLhyphen"/>moonk</hi>
+                  </p>
+                  <p>Aſquam kenootamumwoo <hi>Sobſumoe Wunaunche<g ref="char:EOLhyphen"/>mokaonk God, na ahquompak wanne koo-Christeumum<g ref="char:EOLhyphen"/>wop, wanne annooſey<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g kah wanne Manittoemeyog, u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> muttachkit</hi> Neit apeyog ut <hi>wuttahpebannit Mattannit, mafinobteamukeeg naſhpe nagum uſsenate wuttenantam<g ref="char:EOLhyphen"/>moonk.</hi> Na abquompak kenaau <hi>kummattamagoemum<g ref="char:EOLhyphen"/>woo, matta kenoſwehtamumwoo kutaſoekekodteamumwos, kah kutuſsemwoo moocheke matchekedtant amoong aſh, kuppomantamumwoo iſhkauanittuonganit, kuſsekene aſim<g ref="char:EOLhyphen"/>woo kah kuſsekenaattimwoo iſhkauanittuonganit, kuſsekeneaſim<g ref="char:EOLhyphen"/>woo kah kuſsekenaattimwoo</hi> Kuppomantamumwoo ut pohk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nahtu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kah aſootuonganit; nux, <hi>kenupmwoo, aſh p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mantam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g;</hi> kah moochcke kenuppooonganoo kuk<g ref="char:EOLhyphen"/>keteahogkounooog auog <hi>en muttae pohkenaiyeuut, kah awakompanae ayeuonganit.</hi>
+                  </p>
+                  <p>Miſſi ukkitteamonteanitteaonkaneuoo ut Engliſh<g ref="char:EOLhyphen"/>manſog, matra we be kuttinninnumunkqunaout mo<g ref="char:EOLhyphen"/>nataih mutraohkee wanegukiſh, qut koowahteau<g ref="char:EOLhyphen"/>wahikqunaout <hi>may ne ſagkompagunuomocuk en micheme pomantamoonganit.</hi> Matta pahtoooog Engliſhmanſog weenauwetuonk wutche kenaau; wamut onkquatunk oadich<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>caog Engliſhmanſog wu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>che niſhnoh teag ne a<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>munumopanneg wutche Indianog; Matta, qut
+<pb n="3" facs="tcp:63202:4"/> kukkuhkootamunkoopanneg <hi>Wanaunchemooka<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> Chriſt,</hi> atquam ne kukkodtantamumwoo, kah <hi>ayi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> wog Wunaunchemook <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>onk Chriſt mo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ohunnoadti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nooudt,</hi> tohkonogque maliſhadtauog moocheke muttanongane poundtooooaſh, on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> kenaau woh kutahtomwoo Wunaunchemookaonk God.</p>
+                  <p>Monataſh ennomaiyeuteaon gaſh, yeu waj woh kuttabuttantamumwoo womoauſue Engliſhmanog, newutche naumoh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ttit Indianſog <hi>poſhkino<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g, noochum<g ref="char:EOLhyphen"/>wehtahwhoog, kah naken nuppooog; ukkitteamonteanumo<g ref="char:EOLhyphen"/>uh kah wunnanauwanumouh.</hi> Engliſhmanog miſſi ke<g ref="char:EOLhyphen"/>tompaog: y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> waj woh koowomonomwoo Engliſh<g ref="char:EOLhyphen"/>manog neane kooſhoowong, kah k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mattooog: Toh n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it kenaau marwaweyog ayeuuhkone Engliſhman<g ref="char:EOLhyphen"/>ſog; aſuh tohneit kummagumwoo aninnumoad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uonk en nummatwomunonut, <hi>neit kutonkquadtauſimwoo machi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k wutch wanegik;</hi> kah neit kutogqueneunkquſ<g ref="char:EOLhyphen"/>ſimwoo Askook togqùodchit, neh howae Indian paſooont en nootaut mahche Askook nano kuſſop<g ref="char:EOLhyphen"/>piſſu, chohkoohwhau nnoh Indianoh kah wunnuſh<g ref="char:EOLhyphen"/>oun.</p>
+                  <p>Qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mat wohkukquoſhinnue miſſi kitteamontea<g ref="char:EOLhyphen"/>nitteaouk miſtugkenuk God, wekontamwaheonate Engliſhmanog <hi>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nohtinukqunate yeu womoauſuonk Je<g ref="char:EOLhyphen"/>hovah.</hi> Miſſuglten God annoonont Wunaunche<g ref="char:EOLhyphen"/>mookaonk en kuhhogkaout, woh kuſſimwoo, <hi>Ho<g ref="char:EOLhyphen"/>nane K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>kquie Ketaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oot natinneaham? nuppooe A<g ref="char:EOLhyphen"/>tium? aſuh Papekq?</hi>
+                  </p>
+                  <p>Mahc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ku<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohtomwoo Wunaunchemook<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onk, <hi>Miſſinninnueg apitcheg pohkenaiyeuut</hi> naumwog miſſi <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i; kah apb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ttit wutohket kah wutonkouchtom Nuppooonk, wequai ſpeemoo. Newaieh <hi>yeu wunne<g ref="char:EOLhyphen"/>toonk God,</hi> miſhontoowagk, <hi>
+                        <g ref="char:V">Ʋ</g>ttoh unne wunnegen God?</hi> kah yeu oonenehuwaonk God woh uſluwehteamoo en aiu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>koianatamunate.</p>
+                  <pb n="4" facs="tcp:63202:5"/>
+                  <p>
+                     <hi>Tob unne wum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>egen God?</hi> noh kuttinninumunkqun <hi>Wuſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ukwhongaſh, niſh tapenunmoougiſh koowaeantamwa<g ref="char:EOLhyphen"/>hikqunnaou en wadeha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tuongani<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, <g ref="char:V">Ʋ</g>pbookum God, pomantamo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <g ref="char:V">Ʋ</g>pbo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>kum, <g ref="char:V">Ʋ</g>pbib<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eum</hi> quſhkinnumuk en Indiane unnontoowaonganit. U<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> kenugke wame muttanonganogkuſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>og <hi>Indianog</hi> wu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohtimoneaſh, ut yeu miſſi chippi muttaohke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; matta howae Indiane wutohtimoin webe kenaau, ohtoog Upbibleum ne<g ref="char:EOLhyphen"/>henwonche unnontowaonganit, <hi>kenaau kummithet<g ref="char:EOLhyphen"/>teamwoo en keſukqut.</hi> Kah kutahtomwoo ukkatechi<g ref="char:EOLhyphen"/>zaongaſh kah onkatoganaſh upbookumaſh ut ne<g ref="char:EOLhyphen"/>henwonche Indiane unnontowaonganit kattaninnum<g ref="char:EOLhyphen"/>onkqunaount wohtamunate Upbiblcum</p>
+                  <p>Kukkunkootomonteamwoo onk <hi>paſuk nont webe God, naſhpe nagum wame teanteagquaſſiniſh; yeuoh JE<g ref="char:EOLhyphen"/>HO<g ref="char:V">Ʋ</g>AH wunnamubkuttee God kah pomantamwae God.</hi>
+                  </p>
+                  <p>Onk <hi>miſsugken kum-Manittoomun, kah miſhe menuh<g ref="char:EOLhyphen"/>keſu; oowohwohtamoonk matta wohkukquoano: kah God womoauſu kah numwohtea kitteamonteanitteaonk, cheh<g ref="char:EOLhyphen"/>cheke muſquantam, kah monat <g ref="char:V">Ʋ</g>mmonaneteaonk?</hi> Kah <hi>Jehovah ſampweuſsu ut wame ummayut, &amp; wunnetu<g ref="char:EOLhyphen"/>panatam wame wittanakauſuonganit.</hi>
+                  </p>
+                  <p>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k ut <hi>paſuk Manittoout ne Wutooſhimau, Wun<g ref="char:EOLhyphen"/>naumonniin &amp; wunnetupanatamwe Naſhauanit, &amp; yeug niſhuog paſukooooog.</hi>
+                  </p>
+                  <p>Onk <hi>negonne kuhquttum God ummiſſinninneumoh en wunnaumonakononate mukki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g naſhpe Jeſus Christ, &amp; noh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ezteunk wame neane weogkontog ut nehenwonche wuttenantamooonganit.</hi>
+                  </p>
+                  <p>Onk <hi>we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ke kutchiſſik ayim God Keſuk &amp; obke, &amp; wunnaumun G d niſhnoh teag mahche kezteunk &amp; kuſ<g ref="char:EOLhyphen"/>ſeb mo ahche wunnegen.</hi>
+                  </p>
+                  <p>Onk <hi>kogkounum (aſuh quaquanunnum) God wame ceanteagquſſiniſh naſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pe ummenuhkeſue wuttinnoowaonk.</hi>
+                  </p>
+                  <pb n="5" facs="tcp:63202:6"/>
+                  <p>Onk <hi>nnihyeuog Angelſog, neg wuttenn<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                           <desc>••••••</desc>
+                        </gap> Naſhaua<g ref="char:EOLhyphen"/>nittooog, annoonooog nah wunnanaunonaount neg piſh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ump<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nukeeg wadchanittuonk; Kah apoog onkatogkeeg Angelſog neg matta wadchanumoogeg wunnegonappuonga<g ref="char:EOLhyphen"/>noo, qut nukkodtumwog wutappuonganoo kah wadchanoog ut michemohtag Chainſaſh agwe pohkenahtu en wuſſit<g ref="char:EOLhyphen"/>tumooonganit ne mohſag keſuk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d.</hi>
+                  </p>
+                  <p>Onk <hi>God kezheop wosketompuh neaunak nehenwenche wuttinnuſsuonk</hi>
+                  </p>
+                  <p>Onk naſhpe <hi>paſuk wosketomp,</hi> naſhpe <hi>Adam</hi> kah ummittamwuſſoh <hi>Evah,</hi> nag meechwog <hi>ummeechum<g ref="char:EOLhyphen"/>muonk Mahtug</hi> ne God ukquhtinouh, <hi>Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eheſeonk petutteau mutta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hket</hi> kah <hi>Nuppooonk naſhpe Matcheſeonk</hi> kah <hi>nemehkuh Nuppooonk nuhkuhkauau wame miſſinnin<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uog newutche wame matcheſebettit.</hi>
+                  </p>
+                  <p>Onk <hi>God wuſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aumowomontam muttaok, newaj ma<g ref="char:EOLhyphen"/>guk Wunnukquttegheonob,</hi> onk <hi>howan wunnamptauont, matta wob awakompanau, qut woh ohtau micheme po<g ref="char:EOLhyphen"/>mantamooonk</hi>
+                  </p>
+                  <p>Onk <hi>Chriſt noh wutche Iſraelitſog naſhpe weyans, noh aneukauſit wame Manit micheme wunniyeu.</hi>
+                  </p>
+                  <p>Onk, <hi>Jeſus Christ neemunum en wuhhogkat neyana<g ref="char:EOLhyphen"/>yeuunate wuttinneumunat, kah namhet netatuppe wos<g ref="char:EOLhyphen"/>ketompaut, hohpaheau wuhhogkuh kah noſwehtamwae Nupp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o pummetenkapunae Nuppooonk Newajeh God qunnunkqueu miſheheop kah ooweſuonganukauopoh aneu<g ref="char:EOLhyphen"/>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>moo wame Weſuongaſh.</hi>
+                  </p>
+                  <p>Onk <hi>God miſsohham K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſuk uttoh ad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> piſh Wuſſittuk mutta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſampweuſseonganit, naſhpe neh wosketompuh (L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rd Jeſus Chriſt) anonobeh, yeu wame wosketompaog w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h wunnamuhkut oowabtineau, newutche wutomuhkinub wu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ch Nuppunate.</hi>
+                  </p>
+                  <p>O k <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur peraumoo, na ut wame ut wenohkeit a<g ref="char:EOLhyphen"/>piteh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eg piſh nootamuneau oowadtauatonkquſsuonk</hi> Lord
+<pb n="6" facs="tcp:63202:7"/> Jeſus Chriſt, <hi>kah piſh ſohhamwog, neg wunne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſseecheg eu omohkenate en Pomantamoconganit &amp; neg mateh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſecheeg omohkena<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s en Awakompanaonganit.</hi>
+                  </p>
+                  <p>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k <hi>noowadchanitteamun, naſhpe Kitteamonteanit<g ref="char:EOLhyphen"/>tu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nk naſhpe Wunnamptamooonk &amp; matta naſhpe nehenwonche nenawun, ne ummagooonk God.</hi>
+                  </p>
+                  <p>Onk naſhpe Jeſus Chriſt <hi>kohkotomouteaog abquoan<g ref="char:EOLhyphen"/>tamoadtin matcheſeongaſh, &amp; naſhpe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>uoh wame Wanamptogeeg ſampwanumoog.</hi>
+                  </p>
+                  <p>Onk <hi>Wunnamptamwe imnoowaonk onk nag Wanamp<g ref="char:EOLhyphen"/>tauoncheg God, woh abchue uſseog wunanakauſuongaſh, newutche yeuſh wunnegenaſh &amp; wutchaiyeuong anoooo<g ref="char:EOLhyphen"/>aſh wutch wosketompaog.</hi>
+                  </p>
+                  <p>Onk <hi>noh nooche uſseit wunanakauſuonk ut nuhhogka<g ref="char:EOLhyphen"/>nonut, piſh upkodehe uſsen no pajeh ukkeſuk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dtumus Jeſus Christ.</hi>
+                  </p>
+                  <p>Woi kuttumunge Indianog; <hi>Ketaſsoot Keſukqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> &amp; ohkeit adtahtunk</hi> yeuſh ſohſumoe teanteagquaffin<g ref="char:EOLhyphen"/>iſh wutche onkatoganaſh wutohtimoneaſh ut mut<g ref="char:EOLhyphen"/>taohket <hi>(neg paguanoog, newutche quenauhikquog woh<g ref="char:EOLhyphen"/>wchtamoonk)</hi> qut <hi>Koowabteauwahitteanaſh</hi>
+                  </p>
+                  <p>Yeuyeu miſſi ne kutanakaufuonganoo, <hi>att<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>unum<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enate wunnamuhkuteyeuuk ut womonittuonganit.</hi>
+                  </p>
+                  <p>
+                     <hi>Wimnamptamog</hi> wunamuhkuteyeuuk, <hi>ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> kenun<g ref="char:EOLhyphen"/>nook aſuh menuhkenook ne <hi>Kitteamonteanittea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Wuunoowaonk</hi> ne God ayik weeche ummiſſinuin<g ref="char:EOLhyphen"/>neumoh naſhpe Jeſus Chriſt. Unnok.</p>
+                  <p>
+                     <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i Schſumoe Jehovah, paſuk God, Wutooſhima<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, Wunnaumoniin &amp; wunnetupanatamwe Naſhauanit; Nanous Kukkitteamonteanitteaonk yeuyeu noowekonta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>wahikqun kittinninnumaunate nuhhog, onk woh nutoheo wnnnaiye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>onk webe ut Kuhhogkat, nnoh Nummanitt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>om &amp; Nuſsampoiyeum (aſuh nutahtoonk) micheme. Kah nuhhog nummagon en Wunnaumonuh God abtauunate
+<pb n="7" facs="tcp:63202:8"/> Samp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>uſseonk &amp; wadchanittuonk &amp; quiunupp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> peyaonaonk en Watooſhimau, naſhpe Nagum: Kah nuhhog nummagon en Wunnaſhauanis God, onk wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> noowahtedh Wunnaum niin &amp; o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>womononate &amp; ootin<g ref="char:EOLhyphen"/>ninneumuhkouonate, &amp; wek ntamoe metahuc uſsenato Naumatuongaſh Nuppo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>chwuſsueneum</hi>
+                  </p>
+                  <p>
+                     <hi>Ku<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tumunge Indian!</hi> Ponuſh Ku<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tah ka<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> k nutch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g yeu Wunnoowaonganit. Ogk <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aman kah nootaman yeu wunnoowaonkan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Kut<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>oongaſh, U, Lord, Noowek<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>itam; Lord! noo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> elcontum</p>
+                  <p>Y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u Wunnoow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onk le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dtantamup God as imun<g ref="char:EOLhyphen"/>ate weeche mona<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g li d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nog <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>imou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke<g ref="char:EOLhyphen"/>ratrean<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gano<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a wuttapen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>noounneau. Kah newu c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> wo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>p neamoounn au yeu waj paguanoog na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hpe U kqu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tumoo<g ref="char:EOLhyphen"/>ongaſh God, n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſh ut Touohkomuk Mohtuttaaſh naſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> N o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>au</p>
+                  <p>Nullordeun <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> J <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us Chriſt kuhquuum <hi>Baptizaonk</hi> menu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kereahac K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nkinn<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nk yeu Wunnoowaonk. Neg me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ahhoowac n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>munuke <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eu Wunnoowaonk l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhnon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Baptiz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>og</hi> naſhp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ukku<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>koo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umwetenenuh Jeſus Chriſt N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>htomp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>antog lok<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nuk <hi>Nippe</hi> ut kuh<g ref="char:EOLhyphen"/>hogkat, ut o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nganit Wutooſhimau, Wunnau<g ref="char:EOLhyphen"/>mon<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>kah wunn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> upanatamwe Naſhauanit, wuſſin God, Kitunnumauunun <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>henwonche nuhhog kah Nuk i <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eamont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ani<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eaonk kah <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> quoantamoadtuonk kah K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſuk; K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h ku<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nt neil kuſſim, Lord, neen kutta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, wudchanen! Lord wekon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amwe neen kit<g ref="char:EOLhyphen"/>tinninn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um.</p>
+                  <p>Kah <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>euyeu m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nul ke uſſeck noſwehtamunate Wuum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uong<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh kui-Lordeumwoo kum-Ma<g ref="char:EOLhyphen"/>noohoowaeneum.</p>
+                  <p>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wu <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e annoonau God en kuhhogkaout we<g ref="char:EOLhyphen"/>kontmo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Wunaunchemokaonk, onk neetu wutch
+<pb n="8" facs="tcp:63202:9"/> kena<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u wadchanuwaenin, ku<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhnont kuttabuttan<g ref="char:EOLhyphen"/>mauomwoo God, kah wahteauwaheuk kuttabuttan<g ref="char:EOLhyphen"/>tamoonk naſhpt Noſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>htamoonk</p>
+                  <p>Ahque cheketok Jehovah keſukque Ketaſſoot, noh wunnanumukqueog naſhpe Naſhauanhtue Wunna<g ref="char:EOLhyphen"/>nittuongaſh ut keſukque ayeuonganehtu naſhpe Jeſus Chriſt Nullordeumun! Woi mattammagwe &amp; aſooge miſſinninnuog, toh neit yeu kuttin oadtuhkauoneau Jehovah.</p>
+                  <p>Plukquodtaſh wutannoo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eamoongaſh God, kah yeuſh wame wunnetupanatamweyeuooaſh, ſampoi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>euaſh &amp; wunnegenuooaſh. Niſh piuk wutannoo<g ref="char:EOLhyphen"/>teamoongaſh God kukkuhkootomunkqun, Woi Indiane Netomp! Womononate Jehovah kum-Ma<g ref="char:EOLhyphen"/>nittoom weeche wame Kuttah &amp; wame Kukketea<g ref="char:EOLhyphen"/>hogkou &amp; wame Kuttenantamoonk &amp; womon<g ref="char:EOLhyphen"/>nonate ketatteamung neane Kuhhog. Natwontaſh yeuſh <hi>Piuk wutannooteamoongaſh</hi> ne ahhuttahſhe kenaum pluk Kuppohchanutchegaſh.</p>
+                  <p>Negonne Wutannooteamoonk ne, um Manitto<g ref="char:EOLhyphen"/>muhkon onkatogkeeg Manittooog ut anaquabeh, Yeu nauwuttamun, Sohſumwah ne webeyeue wun<g ref="char:EOLhyphen"/>namu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kuttee Jehovah, webe Lordut J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſus Chriſt &amp; Wowuſſumau nagum, naſhpe Kukketeahogkou &amp; Kuhhog, &amp; matta howan onkatog qut webe nagum. W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ekontaſh nnoh ut, yeuoh Pabuhtanum, yeuoh Womous, yeuoh Peantamau, wuttinnoowaonk Nootaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, &amp; Ketoohamau Waenomaonk.</p>
+                  <p>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u wutannooteamoonk, ne A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>imauuhkon Kuhhog Nunnukontunk, you nauwuttamun, Kun<g ref="char:EOLhyphen"/>kinneaſiſh &amp; nanaeihteaſh wame ukkuhkoowaong<g ref="char:EOLhyphen"/>aſh ut wowuſſumaonganit God kah matta onka<g ref="char:EOLhyphen"/>toganaſh, qut yeuſh w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>be niſh ku<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quttum God nagum.</p>
+                  <pb n="9" facs="tcp:63202:10"/>
+                  <p>Niſhwe wutannooteamoonk ne, Neemunumooh<g ref="char:EOLhyphen"/>kon OOweſuonk Jehovah kum-Mani<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>toom tahnoo<g ref="char:EOLhyphen"/>che, yeu nauwuttamun, U wame wauflumaonganit God, nahnaunne ut chadch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>euaonganit nanawon<g ref="char:EOLhyphen"/>tamwe aviſh, kah nagwu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>teae quttianumo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> auwoh<g ref="char:EOLhyphen"/>teaſh niſhnoh teag n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> naſhpe God noowahteauwa<g ref="char:EOLhyphen"/>hikqun Wuhhog, OOweſuongaſh, Wuttinnoowa<g ref="char:EOLhyphen"/>ongaſh kah Wutanak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſuongaſh</p>
+                  <p>Y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ue tahſhe Wu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>annoot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onk, ne Mehquoan<g ref="char:EOLhyphen"/>taſh <hi>Sabbath day</hi> kuppahketeauunate, yeu na uwut<g ref="char:EOLhyphen"/>tamun, chippe ponuſh Manittoe ukk ſukodtum wut<g ref="char:EOLhyphen"/>che Wauſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>maonk God Kah momanſh nanaweh<g ref="char:EOLhyphen"/>teauſh mamuſſe Ukkeſukod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um wutche Peantamoo<g ref="char:EOLhyphen"/>onk &amp; momanſh mamuſſe ukkeſukodtum wutche Tabu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>antamoonk.</p>
+                  <p>Na panna ta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhe Wutannooteamoonk, ne Quttia<g ref="char:EOLhyphen"/>num Kooſh &amp; Kookas, Yeu nauwuttamun, niſhnoh Howan quttianum ut ayeuonganit, Weſſukiin kah Ummittamwuſſin, Wutchetuonganog &amp; Mukkielog, Wuſſontimominneunk &amp; Wu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tinneuminneunk, Na<g ref="char:EOLhyphen"/>nanuacheg &amp; agwopehtauoncheeg, Noht ompean<g ref="char:EOLhyphen"/>togeeg &amp; neg Nootoge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g, kuttinne womonittinneaout kah kuttinne quttianittinneaout.</p>
+                  <p>Nequtta tanſhe Wuttannooteamoonk ne, Nuſheh<g ref="char:EOLhyphen"/>teohkon, Yeu nauwuttamun, Auwohteaſh niſhnoh wunnegen Aninnumoadtuonk wadchanumunate nuk<g ref="char:EOLhyphen"/>keteaonk, nuppomantamoonk &amp; noonohteaonk kah onkatogkeeg uppomantamooonganoo.</p>
+                  <p>Neſiuſuk tahſhe Wutanooteamooonk ne, <hi>Ma<g ref="char:EOLhyphen"/>muſsehkon;</hi> Yeu nauwuttamun, Ahqueteauſh wame niſhkeneunk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſſuonk ut metahnut, ut kuttoowonga<g ref="char:EOLhyphen"/>nit, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ah ut uſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onganit. Akodchiſh ut niſhnoh teag.</p>
+                  <p>Swoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k tanſhe Wutannooteamooonk ne, <hi>Kummoo<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ubkon,</hi> Yeu nauwuttamun, Uſſiſh ſampwutteahae ut
+<pb n="10" facs="tcp:63202:11"/> antuhamauaonganit kah ut wadchanumooonganit maumachiaſh, kah wanne teag mat ſampweuſſeae neemunuſh wutche howan, enninnumau nanouwe Magooongaſh neg ut quenauhikqutcheeg.</p>
+                  <p>Paskoogaſh tahſhe Wutannooteamoonk ne, <hi>Pan<g ref="char:EOLhyphen"/>noowae wauwaonuhkon ketatteamung.</hi> Nagwutteae ſampwe unnounch kah menuhke uſſegk onkatogkeeg wosketompaog ſampwe unnonate: Nanawehteauſh kukquehtianumoonk kah quehtianum onkatogkeeg miſſinninnuog.</p>
+                  <p>Piuk tahſhe Wutannooteamoonk ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <hi>Ahchowon<g ref="char:EOLhyphen"/>wontogkon,</hi> Yeu nauwuttamun, Tapantamook me<g ref="char:EOLhyphen"/>ta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hoowae ne ut unnihyeuonganit ne God kuhqut<g ref="char:EOLhyphen"/>tumungqueong. A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>que iſhkauouſh onkatogkeeg wun<g ref="char:EOLhyphen"/>naiyeuonk.</p>
+                  <p>Nootamook, Woi kenaau kuhkootomauwutcheeg Indianog. Tohneit Koonamptamumwoo ut wunnof<g ref="char:EOLhyphen"/>tamooonganit Lord Jeſus Chriſt en Godut, onk woh Kuſſampweuſſeahitteamwoo naſhpe wunnoſwehtam<g ref="char:EOLhyphen"/>moonk Lord Jeſus Chriſt; neit God kupponumun<g ref="char:EOLhyphen"/>kou wekontamwe Metah uſſenate neaunak ſampwe wutuhshuwaonk Chriſt, kah <hi>aſuhkauonate God neane wcmonitcheeg Noſwehtamoe Mukkieſog.</hi>
+                  </p>
+                  <p>Wunnamuhkut Nunnoſwehtamoonk nogque en wunnetupanatamwe Godur, webe peaſin: Yeu waj aſekeſukokiſh <hi>Aiuskoiantamoe</hi> wuſſumook kuhhogka<g ref="char:EOLhyphen"/>oog an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quabit Lord, newutche ne wuſſaume peaſin.</p>
+                  <p>Qut tohncit matta kenoſwehtamoomwoo wutte<g ref="char:EOLhyphen"/>nantamoonk God ut Jeſus Chriſtut, <hi>neaunak wame Watanno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>teamo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ongaſh,</hi> neit kenaau <hi>aſq Wunnamp<g ref="char:EOLhyphen"/>tamoogeeg</hi> kah <hi>ummuſquanittea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nk God kutapehtunkum<g ref="char:EOLhyphen"/>woo.</hi> Kah tohneit kenaau matta <hi>Wunnetupanatamwae<g ref="char:EOLhyphen"/>nuog,</hi> kah matta kukkodtantamumwoo <hi>Wunnetupana<g ref="char:EOLhyphen"/>tamweyeuinnate niſhnch ut unnibyeuonganit, matta
+<pb n="11" facs="tcp:63202:12"/> kuttapenumo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mwoo obtauunate wuſsam poiyeu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> W<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>netupanatogeeg ut wequaiyeuut.</hi>
+                  </p>
+                  <p>Hah, ahche womonogeeg Indianog, <hi>
+                        <g ref="char:V">Ʋ</g>nnok Lord, nootowontam wame Kittinoowa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ngaſh papaume wame teanteagquaſſiniſh ſampoiyeuut kah nuſsekeneam niſhnoh pannoowae ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </p>
+                  <p>Newutche, wunnamuhkut woh nuffim, <hi>Wann<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> wunnetupanatamoonk, matta h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> wosket<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mp w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h nauoou Godoh.</hi>
+                  </p>
+                  <p>Qut <hi>Neetompaog!</hi> Toh waj neit monaog ut kenug<g ref="char:EOLhyphen"/>ke kenaau matcheſeog naſhpe <hi>Kogkeiſſippamoonk</hi> ne<g ref="char:EOLhyphen"/>tatuppe nikku<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me, neane wosketomp pomuſhadt ut pohkenahtu nikkumme penuſhau ut pahſahtheganit? <hi>Kogkeiſſippamoonk</hi> ne Matcheſeonk ayeuuhkone <hi>niſhwe tahſhe Wutannooteamoonk;</hi> Newutche ne naſhpe wun<g ref="char:EOLhyphen"/>negen Teag matcheſeae auwohteamuk. Kah ne matcheſeonk ayeuuhkone <hi>wame piuk Wutannooteamo<g ref="char:EOLhyphen"/>ongaſh:</hi> newutche Kogkeiſſippamwaen, qutchehuk Mattanitto, wahteurk pokquenum wame <hi>Piuk Wut<g ref="char:EOLhyphen"/>anncoteamoongaſh.</hi> Uttoh unne ku<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tumunge kah niſh<g ref="char:EOLhyphen"/>kencunkquſſu <hi>K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gkeiſſipamwaen,</hi> ogque Hogſut oyom<g ref="char:EOLhyphen"/>weu puſſeogquanit. Woi kuttumungeyeue lndianog, Sun kukodtauwompaſimwo Chriſt wutche <hi>peaſin wut<g ref="char:EOLhyphen"/>tattamooonk?</hi> Sun piſh kummagumwoo kukketea<g ref="char:EOLhyphen"/>hogkounoog wutche peaſin <hi>Rum</hi> aſuh <hi>Cyder.</hi> Wana<g ref="char:EOLhyphen"/>netamoohteok ne unkqueneunkque Wuttinnoowa<g ref="char:EOLhyphen"/>onk God; ne ogque miſhontoowau Padtohquohhanit, <hi>Kogkeiſſippamwaenuog matta piſh ahtauouog Wutaſsoo<g ref="char:EOLhyphen"/>tamoonk God.</hi>
+                  </p>
+                  <p>Kah, Tohwaj monaog ut kenugke kenaau matta ſampwe wunne nananumooog wutteateaſhiyeuonga<g ref="char:EOLhyphen"/>nooaſh? Kuhkootomok <hi>Kummukkieſumog,</hi> nanaua<g ref="char:EOLhyphen"/>numook <hi>Kummukkieſumog; menuhke uſsegk,</hi> onk Kum<g ref="char:EOLhyphen"/>mukkieſumog woh Peantamunneau en Godut.
+<pb n="12" facs="tcp:63202:13"/> Matta ne nanoog, neit naſhpe <hi>napanna tahſhe Wut<g ref="char:EOLhyphen"/>ann ottamoonk</hi> piſh Kooſumitteamwoo?</p>
+                  <p>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhpe <hi>ſwoſuk tahſhe Wutannooteamoonk</hi> piſh koo<g ref="char:EOLhyphen"/>ſumitteamwoo pomantamog <hi>ut Saſekeneamooonganit.</hi> N g matta anakauſeog, <hi>nananweſeog</hi> Tohwajmatta ku<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ahtooomwoo <hi>Wetuomaſh,</hi> kah wuttittannohketea<g ref="char:EOLhyphen"/>ong<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh &amp; <hi>Orcha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dſaſh</hi> &amp; <hi>Netaſuog</hi> &amp; <hi>tumhowae N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oanakauſuongaſh</hi> netatuppe wonk <hi>Nenawun.</hi> Nau<g ref="char:EOLhyphen"/>mog nu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uhshuwaonganun, woh kutakodchimwoo; kah wogkouunook kuhhogkaoog menuhke Ana kauſinate.</p>
+                  <p>Ahquompi, yeu <hi>nagwutteac menuhke kutuſsemwoo matta wuttameheonate aſuh God aſuh wosk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tompaog,</hi> Neit neg Wunnetowog <hi>woh moacog en Moeuweh<g ref="char:EOLhyphen"/>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>monganit.</hi>
+                  </p>
+                  <p>Qut <hi>aſquam ayik Motuwehkomunk, negonne mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Kuppeantamumwoo</hi> weeche <hi>matmetſeonk</hi> &amp; mos Ke<g ref="char:EOLhyphen"/>natootomumwoo ukkenooſoowaonk onkatoganaſh Moeuwehkomonganaſh nanceſwe <hi>Engliſhmanſog kab Indianſog.</hi>
+                  </p>
+                  <p>Neit woh kuppetutteam wunnetupanatamwe <hi>Wun<g ref="char:EOLhyphen"/>noowaonk</hi> kah Quoſhomuaonk, yeu unne.</p>
+                  <p>
+                     <hi>Metahboowae nummagumun nuhogkanonog en webe<g ref="char:EOLhyphen"/>yeue wunnamuhkutee God, JEHO<g ref="char:V">Ʋ</g>AH, noh Wutooſh<g ref="char:EOLhyphen"/>iman, Wunnaumoniin,</hi> kah <hi>wunnetupanatamwe Naſh<g ref="char:EOLhyphen"/>auanic,</hi> kah <hi>nuppogkodtantaminnun naſhpe aninnumo<g ref="char:EOLhyphen"/>adtuonk God, wuttinneumuhkauonate micheme: Kah nukquoſhauomun moae wowuſsumonate God kah aninnum<g ref="char:EOLhyphen"/>meadtinate wame neemalog yeu ut Mooeuwehkomonganit pumuſhonate ut Sampwe ummayaſh Lord</hi>
+                  </p>
+                  <p>Neit pepenamook <hi>Nohtompeantog,</hi> yeu mos <hi>Wun<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tou,</hi> Tap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nuk kah w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kontog kukkuhkootomunk<g ref="char:EOLhyphen"/>qunaout <hi>Wahteauunate Lord,</hi> kah woſhwunnumunato kah Auwonteanate <hi>
+                        <g ref="char:V">Ʋ</g>kkuhkootomwehteaongaſh God,</hi>
+                     <pb n="13" facs="tcp:63202:14"/> en wame miſſinninnutu, kah noh mos <hi>Askuhwheteau</hi> kah <hi>Mamtuniſsu</hi> &amp; <hi>muttae Peantog</hi> keme <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> weeche onkatogeeg, kah noh <hi>wunne Nanawanum nehenwon<g ref="char:EOLhyphen"/>che Week;</hi> kah noh <hi>Waenomukquſsu</hi> kah Keſukquie Uppomuſhaonk. Netatuppe Nohtompeantog kuſ<g ref="char:EOLhyphen"/>nunt <hi>Konoſwetamumwoo,</hi> newutche <hi>Nanawunnuwaen</hi> kah <hi>Askuhwheteaenin wutche Kukketeahogkounouh, noh piſh nampooham en Godut wutche Kukketeahogkounouh.</hi> Kah woh kuppepenamumwoo <hi>Elderſog, neg piſh wun<g ref="char:EOLhyphen"/>ne Wunnanawunumunneau <g ref="char:V">Ʋ</g>mmoeuwehkomonganit;</hi> kah en netatuppeyeue Elderſut magook anue <hi>Quttia<g ref="char:EOLhyphen"/>nittuonk,</hi> kah en onkatogkeeg wosketompaog Wonk <hi>Deaconſog</hi> woh ohtoog ut Kummoeuwehkomonganu<g ref="char:EOLhyphen"/>out, quoſhai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amunate niſh quenauhikoongaſh wut<g ref="char:EOLhyphen"/>che Nohtompeantogecg kah wutche wut-Tableumut Lord. Ut <hi>Wuttableeumut Lord,</hi> Paſtorſog aſuh Nohtompeantog neit piſh magou en kuhhogkaout, <hi>Sohqunum<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Petukqunnunk kah Wine ut Wuttattam<g ref="char:EOLhyphen"/>waitch,</hi> ne nauwuttamun, <hi>Wuhhog kah OOsqheonk</hi> Lord Jeſus Chriſt, ne Sephauſu Chriſt wu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch kenaau.</p>
+                  <p>A<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quam kummoookomoomwoo <hi>Sacrament,</hi> Na<g ref="char:EOLhyphen"/>tootomook Kuttahhoowoaſh kah kuppomantamoo<g ref="char:EOLhyphen"/>onganoooaſh, kah aiuskoiantamoe ſampooagk kum<g ref="char:EOLhyphen"/>ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cheſeonganoo ayeuuhkone wame <hi>Piuk Wutaen<g ref="char:EOLhyphen"/>nooteamoongaſh,</hi> kah pean<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k God wutche ah<g ref="char:EOLhyphen"/>quoantamoad<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uonk naſhpe wunnuppooonk Jeſus Chriſt. Kah apeog Sacramen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut, a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>quompi kutta<g ref="char:EOLhyphen"/>tumunumumwoo <hi>Petukqunnunk kah Wine,</hi> Anomittea<g ref="char:EOLhyphen"/>hae unnok, Lord! <hi>Nuttattumunum koo-Christeum! Lord! Yeu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eu nunneemunum Chriſt! kah Lord newut<g ref="char:EOLhyphen"/>che Chriſt napuk, yeuwaj nuppoomooutch nummatcheſe<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uk k<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> mantaj Nukketeahogkou</hi>
+                  </p>
+                  <p>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hehe yeu, match<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſean, neit anue matchi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> kum<g ref="char:EOLhyphen"/>mataheſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onk, onk orkatog<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eg miſſinninnuog
+<pb n="14" facs="tcp:63202:15"/> matcheſeong. Wunnetupanatamwe Manit moocheke moomooſqheau neg matcheſecheg mahche <hi>mooohkom<g ref="char:EOLhyphen"/>wog Sacrament.</hi> Howan ut kenugke kenaau yeuyeu matcheſeit, nnoh Auſhkomook, kah nnoh ayimook ſampoounate ummatcheſeonk kah aiu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ianatamun<g ref="char:EOLhyphen"/>nate Qut tohneit Howan nagwuteae auſhkomut matta aius oianatamoo, neit <hi>Pogkenook wutch kenugke kenaau noh matcheſeanuh.</hi>
+                  </p>
+                  <p>Womonogkeeg Indianog! Nukkodtumog um<g ref="char:EOLhyphen"/>mayaſh Lord J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſus Chriſt, <hi>Nummenuhke wanwon piſh papquanne Kummahtiſſimwoo.</hi> God piſh wutuhque paguanau kenaau naſhpe ummuſquanittamoe wuſſit<g ref="char:EOLhyphen"/>tumooongaſh: Kah ut Chepiohkomukqut piſh kummiſhontoowam, <hi>Nutawakompanam, Nutawa<g ref="char:EOLhyphen"/>kompanam!</hi> wutche anue moocheke kodtumwaeu onk wunnepagwaſh kenaum ut Mehtugqut.</p>
+                  <p>Qut, toh neit kuppomuſhaumwoo ut ummayut Lord Jeſus Chriſt, piſh kutahtomwoo anue Naſha<g ref="char:EOLhyphen"/>uanittue weenauwetuongaſh moocheke onk neg ah<g ref="char:EOLhyphen"/>tongeeg wame muttaohkee teanteagquaſſiniſh Kah nuppooog, God piſh neemunau Kukketeahogkou<g ref="char:EOLhyphen"/>nouh we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chauonate Angelſog. Lord Jeſus Chriſt pi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Omol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kinnau kuhhogkaoog wutch Nuppunnate en michemohtae Pomontamoonganit, Wuſſituumwae K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tukodtut. Piſh koonanumitteamwoo weoche Lord Jeſus Chriſt anue mooch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke kodtumwaeu onk kena<g ref="char:EOLhyphen"/>umumwoo anogqſog ponkokqut, aſuh quſlukquanaſh ut ohkeit, aſuh nippe padtipp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhinſh ut Seippuut.</p>
+                  <p>Yeuveu <hi>Natwontaſh toh Ancowai kah Lord anin<g ref="char:EOLhyphen"/>numnnkſuſh wohwohtamoonk niſhnoh ut.</hi>
+                  </p>
+                  <trailer>WOHKUKQUOSHIN.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:63202:1" rendition="simple:additions"/>
+                  <p>An EPISTLE To the Chriſtian INDIANS, Giving them A Short Account, of what the ENGLISH Deſire them to KNOW and to DO, in order to their Happineſs.</p>
+                  <p>Written by an Engliſh <hi>Miniſter,</hi> at the Deſire of an Engliſh <hi>Magistrate,</hi> who ſends unto them this Token of Love.</p>
+                  <p>
+                     <hi>BOSTON,</hi> Printed by <hi>Bartholomew Green,</hi> and <hi>John Allen.</hi> 1700.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:63202:2"/>
+                  <head>
+                     <hi>An EPISTLE To the INDIANS Who</hi> call upon the Name of Jeſus Chriſt our Lord, both their Lord and ours. Grace be unto you, and Peace, from God our Father, and from our Lord Jeſus Christ.</head>
+                  <p>I <hi>Beſeech you Brethren, by the mercies of God,</hi> that you conſider ſeriouſly the true things, Which my Epiſtle ſhall tell you. In the Fear, and the Love of God, conſider them. <hi>Let theſe ſayings ſink down into your Hearts.</hi>
+                  </p>
+                  <p>I come to you, with this M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſage; <hi>Only ſerve the Lord</hi> Jeſus Chriſt <hi>with all your Heart, for, conſider how great things he hath done for you</hi>
+                  </p>
+                  <p>Truly, you may ſay, <hi>The Lord hath done great things for us</hi>
+                  </p>
+                  <p>It was the promiſe of God, <hi>I will ſay to them which were not my people, Thou art my people, and they ſhall ſay, Thou art my God.</hi>
+                  </p>
+                  <p>In you <hi>Chriſtian Indians,</hi> we
+<pb n="2" facs="tcp:63202:3"/> 
+                     <hi>Chriſtian Engliſh,</hi> do with wonder and glad<g ref="char:EOLhyphen"/>neſs behold that promiſe accompliſhed. And will not you wonder at it?</p>
+                  <p>While you were in your Ignorance, you were <hi>wretched, and miſerable, and poor, and blind,</hi> &amp; <hi>naked;</hi> But God in his providence hath ſtir<g ref="char:EOLhyphen"/>rid up the charity of the <hi>Engliſh,</hi> to bring you the <hi>knowledge</hi> of Him, who is <hi>the only true God, and Jeſus Christ, whom he hath ſent, whom to know is Life eternal.</hi>
+                  </p>
+                  <p>Before you heard the <hi>Glorious Goſpel of God,</hi> you were <hi>at that time without Christ, having no Hope, and without God in the world.</hi> Then y<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> were, in the <hi>ſnare of the Devil, taken Captive by him, to do his Wi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l.</hi> Then <hi>ye were, fooliſh diſobedient, deceived, ſerving diverſe Luſts and pleaſures, living in malice, and envy, hateful and hating one another.</hi> You lived in Darkneſs, and madneſs, while you lived: yea, you were <hi>Dead while you lived;</hi> And when you Died, your Spirits went into <hi>utter Darkneſs</hi> and the <hi>place of Torment.</hi>
+                  </p>
+                  <p>It was great compaſſion in the Engliſh, not only to offer you many comforts of this Life, but alſo to ſhow you the <hi>way that leads to ever<g ref="char:EOLhyphen"/>laſting Life.</hi> The Engliſh did not expect any Benefits from you; they have given you a good price, for all that you Communicate unto them; No, but they have Preached
+<pb n="3" facs="tcp:63202:4"/> unto you the <hi>Goſpel of Chriſt,</hi> even when you, being aſleep, did not ask for it; and in doing ſo, they have <hi>made the Goſpel of Chriſt without charge</hi> to you, though they put themſelves to the <hi>charge</hi> of many thouſands of pounds, that you might enjoy that Favour of God. You have cauſe to be thanklul unto the Chari<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>able Engliſh; who ſaw you <hi>ſtripped, and wounded, and Half Dead;</hi> but <hi>when they ſaw you they had compaſſion on you, and took care of you.</hi> The Engliſh have been your great Friends; you muſt be for them, as for your Fathers, and your Brothers; If you be their enemies, or help their enemies, you will <hi>Requite Evil for Good,</hi> and you will be, as if an Indian ſhould bring to the fire ſide a Snake frozen and ſtarved, and the Snake after he is comforted ſhould ſting the kind Indian, and kiil him.</p>
+                  <p>But infinitely g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er was the compaſſion of the great God in moving the Engliſh, thus to <hi>ſhew you the kindneſs of the Lord.</hi> When the great God ſends his Goſp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l to you, you may ſay, <hi>After whom does the King of Heaven ſeek? After a dead Dog, after a Flea.</hi>
+                  </p>
+                  <p>Since you have the Goſpel, <hi>The people which Sat in Darkneſs, See a Great Light, and unto them which ſat in the Region and ſhadow of Death, Light is ſprung up.</hi> Let this <hi>goodneſs of God,</hi> cauſe you to cry out, <hi>How Good is God?</hi> and let it <hi>lead you to Repentance.</hi>
+                  </p>
+                  <pb n="4" facs="tcp:63202:5" rendition="simple:additions"/>
+                  <p>
+                     <hi>How good is God,</hi> who hath given you the <hi>Scripture,</hi> whereby you may be made wiſe <hi>unto Salvation! Gods Book, the Book of life,</hi> the <hi>Bible,</hi> is tranſlated into your language. Among all the thouſands of Na<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ions of <hi>Indians,</hi> on this mighty half of the Wo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld, there is not one beſides you, ſo <hi>Lifted up to Heaven</hi> And you have Catechiſms, and other Treatiſes, in your own language, to help you in underſtanding of the Bible.</p>
+                  <p>You are Inſtructed, That <hi>there is but one God of whom are all things,</hi> even JEHOVAH, <hi>He is the True God, he is the living God.</hi>
+                  </p>
+                  <p>That <hi>great is our Lord, and of great Power, His understanding is Infinite,</hi> And, <hi>The Lord is Gracious, and full of compaſſion, ſlow to Anger, and of great Mercy:</hi> And, <hi>The Lord is Righteous in all His wayes, and Holy in His works</hi>
+                  </p>
+                  <p>That in <hi>the one God, there is the Father, the Son, and the Holy Spirit,</hi> and, <hi>Theſe three are One</hi>
+                  </p>
+                  <p>That God <hi>hath predeſtinated His People unto the Adoption of children by Jeſus Christ, and works all things after the counſel of His own Will.</hi>
+                  </p>
+                  <p>That <hi>in the Beginning God created the Heavens and the Earth, and God ſaw all that He had made, and behold, it was very good.</hi>
+                  </p>
+                  <p>That <hi>God upholds all things, by the word of his Power.</hi>
+                  </p>
+                  <pb n="5" facs="tcp:63202:6"/>
+                  <p>That there are <hi>Angels,</hi> who are <hi>Miniſtring Spirits, ſent forth to minister for them, who ſhall be Heirs of ſalvation;</hi> And there are other <hi>An<g ref="char:EOLhyphen"/>gel<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, who k<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> not their firſt Eſtate, but left their own Habitation and be Reſerved in everlasting Chains under Darkneſs, unto the Judgment of the great Day.</hi>
+                  </p>
+                  <p>That God <hi>created man in Hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> own Image.</hi>
+                  </p>
+                  <p>That by one <hi>man even by Adam,</hi> and his wife <hi>Eve,</hi> ea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing the <hi>F<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uit</hi> of a <hi>Tree</hi> forbidden by God unto th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m <hi>Sin entred into the world, and Death by Sin: and ſo Death is come upon all men, for that all have ſinned.</hi>
+                  </p>
+                  <p>That <hi>God ſo loved the world, as to give His only Begotte<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Son, that whoſever Believeth on Him ſhou d not periſh but have ever<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>asting Life.</hi>
+                  </p>
+                  <p>Tha <hi>Chriſt,</hi> who is <hi>of the Iſraelites as con<g ref="char:EOLhyphen"/>cerning the fleſh,</hi> is, <hi>God over all Bleſsed forever.</hi>
+                  </p>
+                  <p>That Jeſus Chriſt <hi>took upon Him the form of a Servant, and being found in faſhion as a man, He humbled himſelf, and became obedient unto Death, even the Death of the Croſs. Wherefore God hath highly ex<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lted Him, and given Him a Name above every Name.</hi>
+                  </p>
+                  <p>That <hi>God hath appointed a Day in which He will Judge the world in Righteouſneſs by that Man the Lord Jeſus Chriſt whom he hath Ordained, whereof He hath given Aſſurance unto all men, in that He hath raiſed Him from the Dead.</hi>
+                  </p>
+                  <p>That <hi>the Hour is coming, in which all that are in their graves, ſhall Hear the voice of the Lord</hi>
+                     <pb n="6" facs="tcp:63202:7"/> Jeſus Chriſt, <hi>and ſhall come forth, they that have done Good, unto the Reſurrection of Life, and they that have done Evil, unto the Reſurrection of Dam<g ref="char:EOLhyphen"/>nation.</hi>
+                  </p>
+                  <p>That <hi>we are ſaved by Grace, through Faith and this not of our ſelves, but it is the Gift of God.</hi>
+                  </p>
+                  <p>That through Jeſus Chriſt is <hi>Preached unto us the forgiveneſs of Sins, and by Him all that Believe are made Righteous.</hi>
+                  </p>
+                  <p>That it is <hi>a Faithfull ſaying, That they who Believe in God, ſhould be carefull to maintain good Works, for theſe things are good and profitable unto men</hi>
+                  </p>
+                  <p>That He <hi>who hath begun a good Work in us, will finiſh it until the day of Jeſus Chriſt.</hi>
+                  </p>
+                  <p>Poor <hi>Indians; The Lord of Heaven and Earth,</hi> has <hi>hid</hi> theſe Glorious things, from other nati<g ref="char:EOLhyphen"/>ons of the Earth, (who are <hi>deſtroyed for the lack of knowledge</hi>) and has <hi>Revealed them unto you.</hi>
+                  </p>
+                  <p>It is your main Duty now, to <hi>Receive this Truth in the Love of it.</hi>
+                  </p>
+                  <p>If you do <hi>Receive it,</hi> Let it appear, by your conſenting to that <hi>Covenant of Grace,</hi> which God hath made with His People, through Jeſus Chriſt. Say,</p>
+                  <p>
+                     <hi>O Glorious Jehovah, One God, Father, Son, and Holy Spirit; Thy Free Grace, does now help me to give my ſelf unto thee, That I may be happy in thee alone, as my God, and my Portion forever: and to give my ſelf unto the Son of God that I may obtain
+<pb n="7" facs="tcp:63202:8"/> Righteouſneſs and Salvation, and be brought Home unto the Father th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ouh Him; and to give my ſelf unto the Spirit of God, that I may know the Son, and Love Him, and ſerve Him, and have an Heart to keep the Laws of my Redeemer.</hi>
+                  </p>
+                  <p>Poor <hi>Indian,</hi> Let thy Heart, and thy Hand, be put unto this <hi>Covenant</hi> Wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n thou Readeſt and Heareſt the <hi>Words of this Covenant,</hi> Let thy Tongue ſay, <hi>Lord, I am Willing, Lord, I am Willing.</hi>
+                  </p>
+                  <p>This <hi>Covenant of God,</hi> was offered unto many Nations of your N<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ighbours, but they Refuſed it. And becauſe they Refuſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d it, they are deſtroyed by the Dreadful Judgments of God, juſt as one would Burn up the Trees in the Wilderneſs.</p>
+                  <p>The Lord Jeſus Chriſt, hath appointed <hi>Baptiſm,</hi> to be the <hi>Seal</hi> of this <hi>Covenant.</hi> When you heartily lay Hold on the <hi>Covenant,</hi> you muſt then be <hi>Baptiſed,</hi> by a Miniſter of Jeſus Chriſt. When a Miniſter pours <hi>Water</hi> on you, <hi>In the Name of the Father, the Son, and the Holy Spirit,</hi> God ſays, <hi>I give you my Self, and my Grace, and Pardon and Heaven;</hi> and you muſt ſay, <hi>Lord, I am thine, Save me: Lord, I am willing to be thy ſervant.</hi>
+                  </p>
+                  <p>And now, it muſt be your endeavour to keep the Laws of your <hi>Lord Redeemer.</hi>
+                  </p>
+                  <p>Becauſe the Lord hath ſent you <hi>good Ti<g ref="char:EOLhyphen"/>dings of great Joy, that unto you, there is born
+<pb n="8" facs="tcp:63202:9"/> a Saviour,</hi> you muſt be thankful to Him, and ſhow your <hi>Thankfulneſs</hi> by your <hi>Obedience.</hi>
+                  </p>
+                  <p>Will you be Rebellious againſt the King of Heaven, who hath <hi>Bleſsed us with Spiritual Bleſſings, in Heavenly Places, through Jeſus Chriſt our Lord?</hi> Oh, <hi>Fooliſh people and unwiſe,</hi> If you ſo <hi>Requi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e the Lord.</hi>
+                  </p>
+                  <p>God hath given you <hi>Ten Commandments,</hi> which are all <hi>Holy, and Juſt, &amp; good.</hi> Thoſe <hi>Ten Commandments</hi> require, thee, my Indian Freind, <hi>To Love the Lord thy God, with all thy Heart, and all thy Soul, and all thy Mind,</hi> and, <hi>To Love thy Neighbour as thy Self.</hi> Look upon theſe <hi>Ten Commandments,</hi> as often as upon thy <hi>Ten Fingers.</hi>
+                  </p>
+                  <p>The firſt Commandment is, <hi>Thou ſhalt have no other Gods before my face.</hi> That is, Glorify the only True God, Jehovah, only in the Lord Jeſus Chriſt, Let thy Love, thy Truſt, thy Joy be placed on Him, and pray to Him, and Hear His word, and ſing His Praiſe: And wor<g ref="char:EOLhyphen"/>ſhip Him, with Soul and Body: And none elſe beſides Him.</p>
+                  <p>The ſecond is, <hi>Thou ſhalt not make to thy ſelf any Image.</hi> That is, Obſerve ſuch <hi>Ordinances</hi> in the Worſhip of God, as God Himſelf hath ordained; And None but ſuch.</p>
+                  <pb n="9" facs="tcp:63202:10"/>
+                  <p>The third is, <hi>Thou ſhalt not take the Name of the Lord thy God in vain.</hi> That is, In all the Worſhip of God, and eſpecially in Swearing, be very Serious. And, Neither Irreverently nor unprofitably make uſ of any thing where<g ref="char:EOLhyphen"/>by God makes Himſelf known unto us; as, His Names, His Words, and His Works.</p>
+                  <p>The fourth is, <hi>Remember the Sabbah day to keep it Holy.</hi> That is, When the Lords day comes, wholly ſet it a part for the Service of the Lord. And keep Solemn Dayes of Suppli<g ref="char:EOLhyphen"/>cation, and ſolemn Dayes of Thanks giving, when there is occaſion for them.</p>
+                  <p>The fifth is, <hi>Honour thy Father and thy Mo<g ref="char:EOLhyphen"/>ther.</hi> That is, Let every man be reſpected in his Place; Let <hi>Husbands</hi> and <hi>Wives,</hi> Let Pa<g ref="char:EOLhyphen"/>rents and Children, Let Maſters and Servants, Let Rulers &amp; Subjects, Let Paſtors and People, Show ſuitable Reſpects to one another.</p>
+                  <p>The ſixth is, <hi>Thou ſhalt not kill,</hi> That is, Uſe all due means, to preſerve our own Life, and Health, and Peace, and the Life of others.</p>
+                  <p>The ſeventh is, <hi>Thou ſhalt not Commit Adul<g ref="char:EOLhyphen"/>tery.</hi> That is, Shun all unchaſt Filthineſs, of Heart, and of Speech, and of Action: Be Modeſt in every Thing.</p>
+                  <p>The eighth is, <hi>Thou ſhalt not Steal.</hi>
+                  </p>
+                  <p>That is, Be Honeſt in increaſing, and
+<pb n="10" facs="tcp:63202:11"/> preſerving our Eſtates, and unjuſtly take away nothing of another mans, but give Alms to them that are in want.</p>
+                  <p>The ninth is, <hi>Thou ſhalt not bear Falſe witneſs againſt thy Neighbour.</hi> That is, Ever<g ref="char:EOLhyphen"/>more ſpeak the Truth our ſelves, and Labour that the Truth may be ſpoken by others; and particularly, be Tender as of our own Credit, ſo of other mens.</p>
+                  <p>The tenth is, <hi>Thou ſhalt not Covet.</hi> That is, Let our Heart be content with what condition God ſhall order for us, and Let not our Heart burn with any Envy againſt the proſperity of others.</p>
+                  <p>Hear, O Inſtructed Indians. If you Be<g ref="char:EOLhyphen"/>lieve in the Obedience which the Lord Jeſus Chriſt yielded unto God, that you may be Righteous by the obedience of the Lord Jeſus Chriſt, then, as a ſign of it, God gives you an Heart to imitate His exemple as far as you can, and be <hi>Followers of God, as Obedient Children.</hi>
+                  </p>
+                  <p>Indeed it is but little Obedience that you can yield unto the Holy God: And you muſt with daily <hi>Repentance,</hi> Loath and Judge your ſelves before the Lord for its being ſo little.</p>
+                  <p>But if you don't Obey the will of God in Jeſus Chriſt, with <hi>Reſpect unto all His Command<g ref="char:EOLhyphen"/>ments, you are unbelievers, and the wrath of God a<g ref="char:EOLhyphen"/>bideth on you.</hi> And if you be not <hi>Saints,</hi> and per<g ref="char:EOLhyphen"/>ſons who Deſire and ſtudy to be <hi>Holy in all
+<pb n="11" facs="tcp:63202:12"/> manner of converſation,</hi> you will not be <hi>meet for the Inheritance of the Saints in Light.</hi> Come then, Say, my dear Indians, O ſay, <hi>Lord, I count thy Precepts concerning all things to be Right, and I hate every falſe way.</hi> For indeed I muſt tell you, <hi>Without Holineſs no man ſhall ſee the Lord.</hi>
+                  </p>
+                  <p>Is it ſo, my <hi>Indians?</hi> How comes it then to paſs that many of you fall into the ſin of <hi>Drunk<g ref="char:EOLhyphen"/>enneſs,</hi> as eaſily, as a man going in the Dark, falls into a Pit? The ſin of <hi>Drunkenneſs,</hi> is againſt the <hi>Third Commandment;</hi> for it abuſes the Good creatures of God. And it is againſt all the <hi>Ten Commandments;</hi> For a Drunken man, Tempted by the Devil, will ſoon break all the <hi>Ten Commandments.</hi> How miſerable do you make your ſelves, even like <hi>a Swine wallowing in the mire,</hi> when you make your ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lves <hi>Drunk?</hi> Unhappy Indians! will you ſell Chriſt, for a little <hi>Drink?</hi> Will you truck away your ſouls, for a little <hi>Rum,</hi> or <hi>Cider?</hi> Don't forget the Terrible Word of God, which ſounds like the Thunder, <hi>Drunkards ſhall not inherit the Kingdom of God.</hi>
+                  </p>
+                  <p>And, Why have ſo many of you, ſo Little Order in your <hi>Families?</hi> Teach your <hi>Children,</hi> Rule your <hi>Children,</hi> do what you can, that your <hi>Children</hi> may pray to God.
+<pb n="12" facs="tcp:63202:13"/> Elſe the <hi>Fifth Commandment</hi> will condemn you.</p>
+                  <p>The <hi>eighth Commandment</hi> will condemn you, if you Live in <hi>Idleneſ.</hi> They that <hi>work not at all,</hi> do <hi>walk Diſorderly.</hi> What ails you that you can't have your <hi>Houſes,</hi> and <hi>Orchards,</hi> and <hi>Cattel,</hi> and gainful <hi>Trades,</hi> as well as <hi>We?</hi> Let our <hi>enample</hi> ſhame you, &amp; ſpur you, into Diligence?</p>
+                  <p>When you <hi>exerciſe your ſelves to keep a Con<g ref="char:EOLhyphen"/>ſcience void of offence, towards God, and towards men,</hi> Then 'tis time for your Godly Men, to <hi>Gather a Church.</hi>
+                  </p>
+                  <p>But when you <hi>Gather a Church,</hi> you muſt <hi>Pray</hi> with <hi>Faſting</hi> over the undertaking, and ask the Advice of other Churches, both <hi>Engliſh</hi> and <hi>Indian.</hi>
+                  </p>
+                  <p>You muſt then Enter into ſolemn <hi>Covenant,</hi> and promiſe after this manner.</p>
+                  <p>
+                     <hi>We heartely give up our ſelves to the Only true God, JEHOVAH, who is Father, Son, and Holy Spirit, Reſolving by His Help, to Serve Him for<g ref="char:EOLhyphen"/>ever. And we give our ſelves to one another, promiſing, that by the Help of God, we will Worſhip Him together, and Help one another in the Right wayes of the Lord.</hi>
+                  </p>
+                  <p>After this you muſt Chooſe a Paſtor, who muſt be a <hi>Good Man,</hi> Able and Ready to feed you with the <hi>Know<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>edge of the Lord,</hi> and Open and Apply the <hi>Oracles of God,</hi>
+                     <pb n="13" facs="tcp:63202:14"/> unto the whole Flock, and a <hi>Watchful,</hi> and <hi>Sober</hi> man, and a man much in <hi>Prayer,</hi> bo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h by himſelf, and with you, and one that <hi>Ruleth well his own Houſe,</hi> and a man <hi>of Good Report,</hi> and one of an Heavenly converſation.</p>
+                  <p>When you have ſuch a <hi>Paſtor,</hi> you muſt <hi>Obey him, as having the Rule over you, and watching for your Souls, being to give an Ac<g ref="char:EOLhyphen"/>count of them.</hi> And you may Join to him, <hi>Elders</hi> that ſhall <hi>Rule well;</hi> and unto ſuch <hi>Elders</hi> you muſt give <hi>more Honour</hi> then unto other men. <hi>Deacons</hi> alſo ſhould be in your. Churches, to Provide Neceſſary things both for the <hi>Paſtor,</hi> and for the <hi>Table of the Lord.</hi> At the <hi>Table of the Lord,</hi> your <hi>Paſtors</hi> will then admi<g ref="char:EOLhyphen"/>niſter unto you, <hi>Bread Broken,</hi> and, <hi>Wine in a Cup,</hi> to ſignify the <hi>Body,</hi> and the <hi>Bl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>od</hi> of the Lord Jeſus Chriſt, which were once offered unto God for you. B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fore the Adminiſtration of that <hi>Sacrament,</hi> you muſt ſpend ſome time, in ſearching your Hearts, and Lives, and in mourning over all your ſins againſt the <hi>Ten Commandments,</hi> and in crying to God, for the pardon of them, through the Death of Jeſus Chriſt. And, at the <hi>Sacrament,</hi> when you Re<g ref="char:EOLhyphen"/>ceive the <hi>Bread</hi> and the <hi>Wine,</hi> you muſt with all ſeriouſneſs, inwardly ſay, <hi>Lord! I Receive thy Chriſt! Lord, I Receive thy Chriſt!</hi> And, <hi>Lord, Becauſe thy Chriſt did Dy, therefore let my ſin Dy, and let my Soul Live.</hi>
+                  </p>
+                  <pb n="14" facs="tcp:63202:15"/>
+                  <p>If after this, you fall into Sin, your ſin will be worſe then other mens The Holy God will be very Angry at them, that ſin after the <hi>Sacrament.</hi> If any of you do now ſin, you muſt Reprove one another, and bring the ſinful to Confeſſion and Repentance. But, if they are Incorrigible, you muſt <hi>put away that wicked Perſon from among you</hi>
+                  </p>
+                  <p>My dear <hi>Indians,</hi> If you do forſake the wayes of the Lord Jeſus Chriſt, I <hi>earnestly testify</hi> unto you, That you ſhall <hi>utterly periſh</hi> God will kill you, with one Thunderſtroke of His wrath after another. And in Hell, you ſhall cry out, <hi>I am Tormented! I am Tormented!</hi> for more years, than you now ſee Leaves upon the Trees.</p>
+                  <p>But, if you do follow the wayes of the Lord Jeſus Chriſt, you will be Rich above thoſe people that have Money, and all Riches. At your Death, God will take your Souls to be among the Angels. The Lord Jeſus Chriſt ſhall Raiſe you from the Dead unto everlaſting Life, at the Day of Judgment. You ſhall be Bleſſed with the Lord Jeſus Chriſt, infinitely more years, than you ſee ſtars in the Sky, or ſtones on the Earth, or Drops of water in the Rivers.</p>
+                  <p>Now, <hi>Conſider what I ſay, and the Lord give you underſtanding.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
